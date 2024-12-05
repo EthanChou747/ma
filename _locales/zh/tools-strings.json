@@ -1,0 +1,6 @@
+{
+    "maths|block": "工具",
+    "maths.areaOfRectangle|block": "長方形面積 長 %length|寬 %width",
+    "maths.ledOfRectangle|block": "LED顯示長方形面積 長 %length|寬 %width",
+    "maths.ledOfTriangle|block": "LED顯示三角形面積 底 %bottom|高 %height"
+}
