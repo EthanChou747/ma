@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-maths=github:EthanChou747/ma
+maths=github:ethanchou747/ma
 ```
